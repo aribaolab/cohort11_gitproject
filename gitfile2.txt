@@ -3,3 +3,6 @@ pineapple
 banana
 pear 
 Apple
+Melon
+Cucumber
+rice
